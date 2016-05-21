@@ -3,7 +3,8 @@ Set of functions to manipulate and modify the G-code fed to a FDM 3D-printer
 
 #How to use
 
-###
+### Execute it
+
 Open the `__init__.py` file and change the `path = "test.gcode"` with the name of your G-code file. You can then execute:
 
 ```python
