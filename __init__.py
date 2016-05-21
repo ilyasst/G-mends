@@ -5,7 +5,7 @@ from gcodeParser import *
 if __name__ == '__main__':
     path = "test.gcode"
 
-    parser = GcodeParser()
+    parser = gcodeParser()
     model = parser.parseFile(path)
 
     print model

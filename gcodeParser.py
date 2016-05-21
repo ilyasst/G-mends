@@ -2,7 +2,7 @@
 
 from gcodeModel import *
 
-class GcodeParser:
+class gcodeParser:
     
     def __init__(self):
         self.model = GcodeModel(self)
