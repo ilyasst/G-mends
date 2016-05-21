@@ -33,6 +33,11 @@ Use `model.layers[i]` to check layer _i_.
 
 `model.layers[i].Z` will directly who you the layer heigth _Z_ in millimiters.
 
+# Sources
+
+Original sources from: https://github.com/jonathanwin/yagv
+By https://github.com/jonathanwin
+
 
 
 
